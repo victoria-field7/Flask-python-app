@@ -1,0 +1,1 @@
+This repository contains a simple Flask-based application for practicing version control and development workflows.
